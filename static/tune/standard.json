@@ -1,0 +1,722 @@
+[
+	{
+		"name": "C0",
+		"frequency": 16.352,
+		"last": 15.434,
+		"next": 17.324
+	},
+	{
+		"name": "#C0",
+		"frequency": 17.324,
+		"last": 16.352,
+		"next": 18.354
+	},
+	{
+		"name": "D0",
+		"frequency": 18.354,
+		"last": 17.324,
+		"next": 19.445
+	},
+	{
+		"name": "#D0",
+		"frequency": 19.445,
+		"last": 18.354,
+		"next": 20.602
+	},
+	{
+		"name": "E0",
+		"frequency": 20.602,
+		"last": 19.445,
+		"next": 21.827
+	},
+	{
+		"name": "F0",
+		"frequency": 21.827,
+		"last": 20.602,
+		"next": 23.125
+	},
+	{
+		"name": "#F0",
+		"frequency": 23.125,
+		"last": 21.827,
+		"next": 24.5
+	},
+	{
+		"name": "G0",
+		"frequency": 24.5,
+		"last": 23.125,
+		"next": 25.957
+	},
+	{
+		"name": "#G0",
+		"frequency": 25.957,
+		"last": 24.5,
+		"next": 27.5
+	},
+	{
+		"name": "A0",
+		"frequency": 27.5,
+		"last": 25.957,
+		"next": 29.135
+	},
+	{
+		"name": "#A0",
+		"frequency": 29.135,
+		"last": 27.5,
+		"next": 30.868
+	},
+	{
+		"name": "B0",
+		"frequency": 30.868,
+		"last": 29.135,
+		"next": 32.703
+	},
+	{
+		"name": "C1",
+		"frequency": 32.703,
+		"last": 30.868,
+		"next": 34.648
+	},
+	{
+		"name": "#C1",
+		"frequency": 34.648,
+		"last": 32.703,
+		"next": 36.708
+	},
+	{
+		"name": "D1",
+		"frequency": 36.708,
+		"last": 34.648,
+		"next": 38.891
+	},
+	{
+		"name": "#D1",
+		"frequency": 38.891,
+		"last": 36.708,
+		"next": 41.203
+	},
+	{
+		"name": "E1",
+		"frequency": 41.203,
+		"last": 38.891,
+		"next": 43.654
+	},
+	{
+		"name": "F1",
+		"frequency": 43.654,
+		"last": 41.203,
+		"next": 46.249
+	},
+	{
+		"name": "#F1",
+		"frequency": 46.249,
+		"last": 43.654,
+		"next": 48.999
+	},
+	{
+		"name": "G1",
+		"frequency": 48.999,
+		"last": 46.249,
+		"next": 51.913
+	},
+	{
+		"name": "#G1",
+		"frequency": 51.913,
+		"last": 48.999,
+		"next": 55.0
+	},
+	{
+		"name": "A1",
+		"frequency": 55.0,
+		"last": 51.913,
+		"next": 58.27
+	},
+	{
+		"name": "#A1",
+		"frequency": 58.27,
+		"last": 55.0,
+		"next": 61.735
+	},
+	{
+		"name": "B1",
+		"frequency": 61.735,
+		"last": 58.27,
+		"next": 65.406
+	},
+	{
+		"name": "C2",
+		"frequency": 65.406,
+		"last": 61.735,
+		"next": 69.296
+	},
+	{
+		"name": "#C2",
+		"frequency": 69.296,
+		"last": 65.406,
+		"next": 73.416
+	},
+	{
+		"name": "D2",
+		"frequency": 73.416,
+		"last": 69.296,
+		"next": 77.782
+	},
+	{
+		"name": "#D2",
+		"frequency": 77.782,
+		"last": 73.416,
+		"next": 82.407
+	},
+	{
+		"name": "E2",
+		"frequency": 82.407,
+		"last": 77.782,
+		"next": 87.307
+	},
+	{
+		"name": "F2",
+		"frequency": 87.307,
+		"last": 82.407,
+		"next": 92.499
+	},
+	{
+		"name": "#F2",
+		"frequency": 92.499,
+		"last": 87.307,
+		"next": 97.999
+	},
+	{
+		"name": "G2",
+		"frequency": 97.999,
+		"last": 92.499,
+		"next": 103.826
+	},
+	{
+		"name": "#G2",
+		"frequency": 103.826,
+		"last": 97.999,
+		"next": 110.0
+	},
+	{
+		"name": "A2",
+		"frequency": 110.0,
+		"last": 103.826,
+		"next": 116.541
+	},
+	{
+		"name": "#A2",
+		"frequency": 116.541,
+		"last": 110.0,
+		"next": 123.471
+	},
+	{
+		"name": "B2",
+		"frequency": 123.471,
+		"last": 116.541,
+		"next": 130.813
+	},
+	{
+		"name": "C3",
+		"frequency": 130.813,
+		"last": 123.471,
+		"next": 138.591
+	},
+	{
+		"name": "#C3",
+		"frequency": 138.591,
+		"last": 130.813,
+		"next": 146.832
+	},
+	{
+		"name": "D3",
+		"frequency": 146.832,
+		"last": 138.591,
+		"next": 155.563
+	},
+	{
+		"name": "#D3",
+		"frequency": 155.563,
+		"last": 146.832,
+		"next": 164.814
+	},
+	{
+		"name": "E3",
+		"frequency": 164.814,
+		"last": 155.563,
+		"next": 174.614
+	},
+	{
+		"name": "F3",
+		"frequency": 174.614,
+		"last": 164.814,
+		"next": 184.997
+	},
+	{
+		"name": "#F3",
+		"frequency": 184.997,
+		"last": 174.614,
+		"next": 195.998
+	},
+	{
+		"name": "G3",
+		"frequency": 195.998,
+		"last": 184.997,
+		"next": 207.652
+	},
+	{
+		"name": "#G3",
+		"frequency": 207.652,
+		"last": 195.998,
+		"next": 220.0
+	},
+	{
+		"name": "A3",
+		"frequency": 220.0,
+		"last": 207.652,
+		"next": 233.082
+	},
+	{
+		"name": "#A3",
+		"frequency": 233.082,
+		"last": 220.0,
+		"next": 246.942
+	},
+	{
+		"name": "B3",
+		"frequency": 246.942,
+		"last": 233.082,
+		"next": 261.626
+	},
+	{
+		"name": "C4",
+		"frequency": 261.626,
+		"last": 246.942,
+		"next": 277.183
+	},
+	{
+		"name": "#C4",
+		"frequency": 277.183,
+		"last": 261.626,
+		"next": 293.665
+	},
+	{
+		"name": "D4",
+		"frequency": 293.665,
+		"last": 277.183,
+		"next": 311.127
+	},
+	{
+		"name": "#D4",
+		"frequency": 311.127,
+		"last": 293.665,
+		"next": 329.628
+	},
+	{
+		"name": "E4",
+		"frequency": 329.628,
+		"last": 311.127,
+		"next": 349.228
+	},
+	{
+		"name": "F4",
+		"frequency": 349.228,
+		"last": 329.628,
+		"next": 369.994
+	},
+	{
+		"name": "#F4",
+		"frequency": 369.994,
+		"last": 349.228,
+		"next": 391.995
+	},
+	{
+		"name": "G4",
+		"frequency": 391.995,
+		"last": 369.994,
+		"next": 415.305
+	},
+	{
+		"name": "#G4",
+		"frequency": 415.305,
+		"last": 391.995,
+		"next": 440.0
+	},
+	{
+		"name": "A4",
+		"frequency": 440.0,
+		"last": 415.305,
+		"next": 466.164
+	},
+	{
+		"name": "#A4",
+		"frequency": 466.164,
+		"last": 440.0,
+		"next": 493.883
+	},
+	{
+		"name": "B4",
+		"frequency": 493.883,
+		"last": 466.164,
+		"next": 523.251
+	},
+	{
+		"name": "C5",
+		"frequency": 523.251,
+		"last": 493.883,
+		"next": 554.365
+	},
+	{
+		"name": "#C5",
+		"frequency": 554.365,
+		"last": 523.251,
+		"next": 587.33
+	},
+	{
+		"name": "D5",
+		"frequency": 587.33,
+		"last": 554.365,
+		"next": 622.254
+	},
+	{
+		"name": "#D5",
+		"frequency": 622.254,
+		"last": 587.33,
+		"next": 659.255
+	},
+	{
+		"name": "E5",
+		"frequency": 659.255,
+		"last": 622.254,
+		"next": 698.456
+	},
+	{
+		"name": "F5",
+		"frequency": 698.456,
+		"last": 659.255,
+		"next": 739.989
+	},
+	{
+		"name": "#F5",
+		"frequency": 739.989,
+		"last": 698.456,
+		"next": 783.991
+	},
+	{
+		"name": "G5",
+		"frequency": 783.991,
+		"last": 739.989,
+		"next": 830.609
+	},
+	{
+		"name": "#G5",
+		"frequency": 830.609,
+		"last": 783.991,
+		"next": 880.0
+	},
+	{
+		"name": "A5",
+		"frequency": 880.0,
+		"last": 830.609,
+		"next": 932.328
+	},
+	{
+		"name": "#A5",
+		"frequency": 932.328,
+		"last": 880.0,
+		"next": 987.767
+	},
+	{
+		"name": "B5",
+		"frequency": 987.767,
+		"last": 932.328,
+		"next": 1046.502
+	},
+	{
+		"name": "C6",
+		"frequency": 1046.502,
+		"last": 987.767,
+		"next": 1108.731
+	},
+	{
+		"name": "#C6",
+		"frequency": 1108.731,
+		"last": 1046.502,
+		"next": 1174.659
+	},
+	{
+		"name": "D6",
+		"frequency": 1174.659,
+		"last": 1108.731,
+		"next": 1244.508
+	},
+	{
+		"name": "#D6",
+		"frequency": 1244.508,
+		"last": 1174.659,
+		"next": 1318.51
+	},
+	{
+		"name": "E6",
+		"frequency": 1318.51,
+		"last": 1244.508,
+		"next": 1396.913
+	},
+	{
+		"name": "F6",
+		"frequency": 1396.913,
+		"last": 1318.51,
+		"next": 1479.978
+	},
+	{
+		"name": "#F6",
+		"frequency": 1479.978,
+		"last": 1396.913,
+		"next": 1567.982
+	},
+	{
+		"name": "G6",
+		"frequency": 1567.982,
+		"last": 1479.978,
+		"next": 1661.219
+	},
+	{
+		"name": "#G6",
+		"frequency": 1661.219,
+		"last": 1567.982,
+		"next": 1760.0
+	},
+	{
+		"name": "A6",
+		"frequency": 1760.0,
+		"last": 1661.219,
+		"next": 1864.655
+	},
+	{
+		"name": "#A6",
+		"frequency": 1864.655,
+		"last": 1760.0,
+		"next": 1975.533
+	},
+	{
+		"name": "B6",
+		"frequency": 1975.533,
+		"last": 1864.655,
+		"next": 2093.005
+	},
+	{
+		"name": "C7",
+		"frequency": 2093.005,
+		"last": 1975.533,
+		"next": 2217.461
+	},
+	{
+		"name": "#C7",
+		"frequency": 2217.461,
+		"last": 2093.005,
+		"next": 2349.318
+	},
+	{
+		"name": "D7",
+		"frequency": 2349.318,
+		"last": 2217.461,
+		"next": 2489.016
+	},
+	{
+		"name": "#D7",
+		"frequency": 2489.016,
+		"last": 2349.318,
+		"next": 2637.02
+	},
+	{
+		"name": "E7",
+		"frequency": 2637.02,
+		"last": 2489.016,
+		"next": 2793.826
+	},
+	{
+		"name": "F7",
+		"frequency": 2793.826,
+		"last": 2637.02,
+		"next": 2959.955
+	},
+	{
+		"name": "#F7",
+		"frequency": 2959.955,
+		"last": 2793.826,
+		"next": 3135.963
+	},
+	{
+		"name": "G7",
+		"frequency": 3135.963,
+		"last": 2959.955,
+		"next": 3322.438
+	},
+	{
+		"name": "#G7",
+		"frequency": 3322.438,
+		"last": 3135.963,
+		"next": 3520.0
+	},
+	{
+		"name": "A7",
+		"frequency": 3520.0,
+		"last": 3322.438,
+		"next": 3729.31
+	},
+	{
+		"name": "#A7",
+		"frequency": 3729.31,
+		"last": 3520.0,
+		"next": 3951.066
+	},
+	{
+		"name": "B7",
+		"frequency": 3951.066,
+		"last": 3729.31,
+		"next": 4186.009
+	},
+	{
+		"name": "C8",
+		"frequency": 4186.009,
+		"last": 3951.066,
+		"next": 4434.922
+	},
+	{
+		"name": "#C8",
+		"frequency": 4434.922,
+		"last": 4186.009,
+		"next": 4698.636
+	},
+	{
+		"name": "D8",
+		"frequency": 4698.636,
+		"last": 4434.922,
+		"next": 4978.032
+	},
+	{
+		"name": "#D8",
+		"frequency": 4978.032,
+		"last": 4698.636,
+		"next": 5274.041
+	},
+	{
+		"name": "E8",
+		"frequency": 5274.041,
+		"last": 4978.032,
+		"next": 5587.652
+	},
+	{
+		"name": "F8",
+		"frequency": 5587.652,
+		"last": 5274.041,
+		"next": 5919.911
+	},
+	{
+		"name": "#F8",
+		"frequency": 5919.911,
+		"last": 5587.652,
+		"next": 6271.927
+	},
+	{
+		"name": "G8",
+		"frequency": 6271.927,
+		"last": 5919.911,
+		"next": 6644.875
+	},
+	{
+		"name": "#G8",
+		"frequency": 6644.875,
+		"last": 6271.927,
+		"next": 7040.0
+	},
+	{
+		"name": "A8",
+		"frequency": 7040.0,
+		"last": 6644.875,
+		"next": 7458.62
+	},
+	{
+		"name": "#A8",
+		"frequency": 7458.62,
+		"last": 7040.0,
+		"next": 7902.133
+	},
+	{
+		"name": "B8",
+		"frequency": 7902.133,
+		"last": 7458.62,
+		"next": 8372.018
+	},
+	{
+		"name": "C9",
+		"frequency": 8372.018,
+		"last": 7902.133,
+		"next": 8869.844
+	},
+	{
+		"name": "#C9",
+		"frequency": 8869.844,
+		"last": 8372.018,
+		"next": 9397.273
+	},
+	{
+		"name": "D9",
+		"frequency": 9397.273,
+		"last": 8869.844,
+		"next": 9956.063
+	},
+	{
+		"name": "#D9",
+		"frequency": 9956.063,
+		"last": 9397.273,
+		"next": 10548.082
+	},
+	{
+		"name": "E9",
+		"frequency": 10548.082,
+		"last": 9956.063,
+		"next": 11175.303
+	},
+	{
+		"name": "F9",
+		"frequency": 11175.303,
+		"last": 10548.082,
+		"next": 11839.822
+	},
+	{
+		"name": "#F9",
+		"frequency": 11839.822,
+		"last": 11175.303,
+		"next": 12543.854
+	},
+	{
+		"name": "G9",
+		"frequency": 12543.854,
+		"last": 11839.822,
+		"next": 13289.75
+	},
+	{
+		"name": "#G9",
+		"frequency": 13289.75,
+		"last": 12543.854,
+		"next": 14080.0
+	},
+	{
+		"name": "A9",
+		"frequency": 14080.0,
+		"last": 13289.75,
+		"next": 14917.24
+	},
+	{
+		"name": "#A9",
+		"frequency": 14917.24,
+		"last": 14080.0,
+		"next": 15804.266
+	},
+	{
+		"name": "B9",
+		"frequency": 15804.266,
+		"last": 14917.24,
+		"next": 16744.038
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"name": "E2",
+		"frequency": 82.407,
+		"last": 61.735,
+		"next": 110.0
+	},
+	{
+		"name": "A2",
+		"frequency": 110.0,
+		"last": 82.407,
+		"next": 146.832
+	},
+	{
+		"name": "D3",
+		"frequency": 146.832,
+		"last": 110.0,
+		"next": 195.998
+	},
+	{
+		"name": "G3",
+		"frequency": 195.998,
+		"last": 146.832,
+		"next": 246.942
+	},
+	{
+		"name": "B3",
+		"frequency": 246.942,
+		"last": 195.998,
+		"next": 329.628
+	},
+	{
+		"name": "E4",
+		"frequency": 329.628,
+		"last": 246.942,
+		"next": 440.0
+	}
+]
